@@ -10,7 +10,7 @@ Library: `React`
 
 Clone the Repo: `git clone https://github.com/theWellHopeErr/freecharge-frontend-challenge`
 
-Change Directory: cd freecharge-frontend-challenge
+Change Directory: `cd freecharge-frontend-challenge`
 
 ### Install Dependencies
 
