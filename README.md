@@ -1,4 +1,6 @@
-# Freecharge Frontend Challenge - Order In Restaurant
+# Order In Restaurant
+
+An Online Restaurant with a variety of menu items along with an online payment gateway. This was initially developed for a task-based challenge for Freecharge using `React` library.
 
 ## Tech Stack Used
 
