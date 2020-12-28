@@ -10,9 +10,9 @@ Library: `React`
 
 ### Quick Start
 
-Clone the Repo: `git clone https://github.com/theWellHopeErr/freecharge-frontend-challenge`
+Clone the Repo: `git clone https://github.com/theWellHopeErr/order-in-restaurant.git`
 
-Change Directory: `cd freecharge-frontend-challenge`
+Change Directory: `cd order-in-restaurant`
 
 ### Install Dependencies
 
